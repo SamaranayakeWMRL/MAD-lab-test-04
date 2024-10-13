@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusyHusband</string>
+    <string name="definition">Manage your wife, and more things.</string>
+    <string name="familyactivities">Family Activities</string>
+    <string name="health">Health</string>
+    <string name="Wellness">Wellness</string>
+    <string name="reminders">Reminders</string>
+    <string name="dailyPlaner">Daily Planer</string>
+    <string name="office">Office</string>
+    <string name="taskmanager">Taskmanager</string>
+    <string name="importantdocuments">Important Documents</string>
+
+</resources>
